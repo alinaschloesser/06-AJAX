@@ -1,0 +1,10 @@
+h1 {
+    color: red;
+}
+
+button,
+div,
+form,
+input {
+    margin: 10px;
+}
